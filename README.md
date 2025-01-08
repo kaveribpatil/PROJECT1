@@ -35,7 +35,7 @@ I am passionate about technology and problem-solving. Here's a glimpse of my wor
 <dd>KLE DR.M.SHESHGIRI COLLEGE OF ENGINEERING & TECHNOLOGY UNIVERSITY,BELAGAVI</dd>
 <dt>Portfolio Topic/Domain</dt>
 <dd>Google</dd>
-</dl>
+</dl> 
 
 <br> 
 > “The only way to do great work is to love what you do.” – Steve Jobs
