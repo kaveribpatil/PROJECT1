@@ -1,4 +1,4 @@
- # SUSTAINABLE CITY MOBILITY.github.io
+ # PROJECT1.github.com
 ## Portfolio
 
 ### Hello, I'm [Kaveri Patil] 👋 
