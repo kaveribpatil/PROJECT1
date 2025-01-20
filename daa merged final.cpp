@@ -595,7 +595,7 @@ void getWeatherInfo()
 
     cout << "Weather info for " << city << ":\n";
 
-    cout << "Temperature: 25Â°C\n";
+    cout << "Temperature: 25°C\n";
 
     cout << "Humidity: 60%\n";
 
