@@ -1,4 +1,4 @@
- # PROJECT1.github.com
+ # github.com
 ## Portfolio
 
 ### Hello, I'm [Kaveri Patil] 👋 
